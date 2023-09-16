@@ -1,2 +1,1 @@
-# .github
-Profile sPhoton Technology
+# sPhoton Technology
